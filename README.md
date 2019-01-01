@@ -1,2 +1,6 @@
 # Abeastie.github.io
-A website about me!
+My personal portfolio.
+
+## Note
+This is my first time using GitHub!
+
